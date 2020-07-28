@@ -1,0 +1,72 @@
+11:42:30 AM  [main] 	Initializing Control Panel
+11:42:30 AM  [main] 	Windows Version:  Enterprise  64-bit
+11:42:30 AM  [main] 	XAMPP Version: 7.4.7
+11:42:30 AM  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+11:42:30 AM  [main] 	Running with Administrator rights - good!
+11:42:30 AM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+11:42:30 AM  [main] 	Checking for prerequisites
+11:42:30 AM  [main] 	All prerequisites found
+11:42:30 AM  [main] 	Initializing Modules
+11:42:30 AM  [Apache] 	Apache Service detected with wrong path
+11:42:30 AM  [Apache] 	Change XAMPP Apache and Control Panel settings or
+11:42:30 AM  [Apache] 	Uninstall/disable the other service manually first
+11:42:30 AM  [Apache] 	Found Path: "C:\new folder\apache\bin\httpd.exe" -k runservice
+11:42:30 AM  [Apache] 	Expected Path: "c:\xampp\apache\bin\httpd.exe" -k runservice
+11:42:30 AM  [mysql] 	MySQL Service detected with wrong path
+11:42:30 AM  [mysql] 	Change XAMPP MySQL and Control Panel settings or
+11:42:30 AM  [mysql] 	Uninstall/disable the other service manually first
+11:42:30 AM  [mysql] 	Found Path: "C:\new folder\mysql\bin\mysqld.exe" --defaults-file="c:\new folder\mysql\bin\my.ini" mysql
+11:42:30 AM  [mysql] 	Expected Path: c:\xampp\mysql\bin\mysqld.exe --defaults-file=c:\xampp\mysql\bin\my.ini mysql
+11:42:30 AM  [main] 	Starting Check-Timer
+11:42:30 AM  [main] 	Control Panel Ready
+11:42:51 AM  [mysql] 	Uninstalling service...
+11:42:52 AM  [mysql] 	Successful!
+11:42:57 AM  [Apache] 	Uninstalling service...
+11:42:59 AM  [Apache] 	Successful!
+11:43:01 AM  [Apache] 	Attempting to start Apache app...
+11:43:01 AM  [Apache] 	Status change detected: running
+11:43:11 AM  [mysql] 	Attempting to start MySQL app...
+11:43:11 AM  [mysql] 	Status change detected: running
+12:18:29 PM  [Apache] 	Attempting to stop Apache (PID: 4152)
+12:18:29 PM  [Apache] 	Attempting to stop Apache (PID: 6492)
+12:18:30 PM  [Apache] 	Status change detected: stopped
+12:18:30 PM  [mysql] 	Attempting to stop MySQL app...
+12:18:31 PM  [mysql] 	Status change detected: stopped
+12:18:36 PM  [main] 	Deinitializing Modules
+12:18:36 PM  [main] 	Deinitializing Control Panel
+
+11:34:53 AM  [main] 	Initializing Control Panel
+11:34:53 AM  [main] 	Windows Version:  Enterprise  64-bit
+11:34:53 AM  [main] 	XAMPP Version: 7.4.7
+11:34:53 AM  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+11:34:53 AM  [main] 	Running with Administrator rights - good!
+11:34:53 AM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+11:34:53 AM  [main] 	Checking for prerequisites
+11:34:54 AM  [main] 	All prerequisites found
+11:34:54 AM  [main] 	Initializing Modules
+11:34:54 AM  [Apache] 	Apache Service detected with wrong path
+11:34:54 AM  [Apache] 	Change XAMPP Apache and Control Panel settings or
+11:34:54 AM  [Apache] 	Uninstall/disable the other service manually first
+11:34:54 AM  [Apache] 	Found Path: "C:\new folder\apache\bin\httpd.exe" -k runservice
+11:34:54 AM  [Apache] 	Expected Path: "c:\xampp\apache\bin\httpd.exe" -k runservice
+11:34:54 AM  [mysql] 	MySQL Service detected with wrong path
+11:34:54 AM  [mysql] 	Change XAMPP MySQL and Control Panel settings or
+11:34:54 AM  [mysql] 	Uninstall/disable the other service manually first
+11:34:54 AM  [mysql] 	Found Path: "C:\new folder\mysql\bin\mysqld.exe" --defaults-file="c:\new folder\mysql\bin\my.ini" mysql
+11:34:54 AM  [mysql] 	Expected Path: c:\xampp\mysql\bin\mysqld.exe --defaults-file=c:\xampp\mysql\bin\my.ini mysql
+11:34:54 AM  [main] 	Starting Check-Timer
+11:34:54 AM  [main] 	Control Panel Ready
+11:35:00 AM  [Apache] 	Attempting to start Apache service...
+11:35:06 AM  [mysql] 	Attempting to start MySQL service...
+11:35:15 AM  [Apache] 	Attempting to start Apache service...
+11:35:17 AM  [mysql] 	Attempting to start MySQL service...
+11:35:36 AM  [Apache] 	Attempting to start Apache service...
+11:35:37 AM  [mysql] 	Attempting to start MySQL service...
+11:36:56 AM  [Apache] 	Attempting to start Apache service...
+11:37:00 AM  [mysql] 	Attempting to start MySQL service...
+11:37:02 AM  [Apache] 	Attempting to start Apache service...
+11:37:03 AM  [mysql] 	Attempting to start MySQL service...
+11:37:06 AM  [Apache] 	Attempting to start Apache service...
+12:19:49 PM  [main] 	Deinitializing Modules
+12:19:49 PM  [main] 	Deinitializing Control Panel
+
